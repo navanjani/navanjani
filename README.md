@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/navanjani/navanjani/blob/main/ea0fe566bf4171cdbcb51e64a8ffb633-sticker.png" height="100" /></a>
-<!--
-**navanjani/navanjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/navanjani/navanjani/blob/main/ea0fe566bf4171cdbcb51e64a8ffb633-sticker.png" height="400" /></a> 
+   Im an Engineering graduate who likes to think outside the box and take on new challenges.
+Originally from Sri Lanka.
+Mom to a sweet little girl.
+
+I prefer to keep learning, continue challenging myself and do interesting things that matter.
+Becoming a front-end developer is my dream.
+
+I'm a fast learner,able to pick up new skills and work hard to achieve my goals.
 
 Here are some ideas to get you started:
 

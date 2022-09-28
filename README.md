@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/navanjani/navanjani/blob/main/ea0fe566bf4171cdbcb51e64a8ffb633-sticker.png" height="100" /></a>
 <!--
 **navanjani/navanjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

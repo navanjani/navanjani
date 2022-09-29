@@ -1,7 +1,8 @@
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/navanjani/navanjani/blob/main/ea0fe566bf4171cdbcb51e64a8ffb633-sticker.png" height="300" /></a> 
-
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/navanjani/navanjani/blob/main/ea0fe566bf4171cdbcb51e64a8ffb633-sticker.png" height="200" /></a>    
 ### Hi there 👋  
+
+
 I am Navanjani, Im an Engineering graduate who likes to think outside the box and take on new challenges.
 Originally from Sri Lanka.:sri_lanka: living in the Netherlands :netherlands:
 Mom to a sweet little girl. :angel:

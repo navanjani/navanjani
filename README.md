@@ -4,7 +4,7 @@
 
 
 I am Navanjani, Im an Engineering graduate who likes to think outside the box and take on new challenges.
-Originally from Sri Lanka.:sri_lanka: living in the Netherlands :netherlands:
+Originally from Sri Lanka. :sri_lanka: living in the Netherlands. :netherlands:
 Mom to a sweet little girl. :angel:
 
 I prefer to keep learning, continue challenging myself and do interesting things that matter.

@@ -47,5 +47,5 @@ I'm a fast learner,able to pick up new skills and work hard to achieve my goals.
 # Projects :gear:
 
 :paperclips: [Findustalent](https://beta.findustalent.com/)
-<p>As part of the Codaisseur bootcamp, I had to develop a individual project using the React framework in approximately 10 days. I built a SAAS recruiting platform that focuses companies and candidates. Companies can use this product to create their own career page with multiple job listings.</p>
+<p>As part of the Codaisseur bootcamp, I had to develop a individual project using the React framework in approximately 10 days. I built a SaaS recruiting platform that focuses companies and candidates. Companies can use this product to create their own career page with multiple job listings.</p>
 The front-end was developed with React and TypeScript. I used Redux for global state management.

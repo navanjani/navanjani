@@ -14,7 +14,7 @@ I'm a fast learner,able to pick up new skills and work hard to achieve my goals.
 
 <a href="https://www.linkedin.com/in/navanjani/" target="blank"><img align="center" src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="20" /></a>
 
-# Tech Stacks :file_cabinet:
+# Tech Stack :file_cabinet:
 
 <p>
 <img align="center" src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" height="20" />
@@ -47,5 +47,5 @@ I'm a fast learner,able to pick up new skills and work hard to achieve my goals.
 # Projects :gear:
 
 :paperclips: [Findustalent](https://beta.findustalent.com/)
-<p>As part of the Codaisseur bootcamp, I had to develop a individual project  using the React framework in approximately 10 days. I built a SAAS product. Simply a recruiting platform focused on companies. Companis can use this product to create their own career page with multiple job listings.</p>
+<p>As part of the Codaisseur bootcamp, I had to develop a individual project using the React framework in approximately 10 days. I built a SAAS recruiting platform that focuses companies and candidates. Companies can use this product to create their own career page with multiple job listings.</p>
 The front-end was developed with React and TypeScript. I used Redux for global state management.
